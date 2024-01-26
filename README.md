@@ -8,6 +8,5 @@ i am writing feature 1
 hellow i ma with the push command
 
 this is my new change
-
-
-def
+ 
+ i am going to use the git stash command
